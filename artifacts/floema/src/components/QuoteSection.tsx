@@ -67,8 +67,8 @@ export default function QuoteSection() {
             transition: 'opacity 0.8s ease 0.2s, transform 0.8s ease 0.2s',
           }}>
             <img
-              src={`${BASE}images/fernando-pinto---managing-part-2726298e1b.jpg`}
-              alt="Fernando Pinto — Managing Partner"
+              src={`${BASE}images/amit-photo.jpg`}
+              alt="Amit"
               style={{ width: '100%', height: '100%', objectFit: 'cover' }}
             />
           </div>
@@ -138,7 +138,7 @@ export default function QuoteSection() {
             lineHeight: 1.1,
             color: 'var(--color-text)',
           }}>
-            "We think outdoor furniture should look and feel good while doing good for our planet"
+            "We believe shopping should be simple, enjoyable, and filled with products you'll love."
           </h2>
         </div>
       </div>

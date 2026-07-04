@@ -67,7 +67,7 @@ export default function ProcessSection() {
             transform: inView ? 'none' : 'translateY(30px)',
             transition: 'opacity 0.9s ease, transform 0.9s ease',
           }}>
-            Made to last, designed to endure.
+            Made By Amit, with passion
           </h3>
           <div style={{
             opacity: inView ? 1 : 0,

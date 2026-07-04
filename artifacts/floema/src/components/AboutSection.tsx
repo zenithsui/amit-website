@@ -55,7 +55,7 @@ export default function AboutSection() {
               whiteSpace: 'nowrap',
               flex: '0 0 auto',
             }}>
-              Floema®<br />Est. 2007
+              AMIT
             </h4>
 
             <div ref={imgRef} style={{
