@@ -1,0 +1,80 @@
+@font-face {
+  font-family: 'Zimula';
+  src: url('/fonts/Zimula-Variable.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /* Colors */
+  --color-bg: #f2efea;
+  --color-text: #241f21;
+  --color-yellow: #e9e778;
+  --color-ivory-100: #ebe7df;
+  --color-ivory-200: #e4ded3;
+  --color-stone-300: #c3bcbb;
+  --color-stone-500: #988f8b;
+  --color-stone-700: #524945;
+  --color-urban-coral: #f76c46;
+  --color-golf-celadon: #bacfa3;
+  --color-nature-kraft: #c6af88;
+  --color-forest-green: #042d2b;
+  --color-replastic-blue: #85a1c5;
+
+  /* Typography */
+  --font-heading: 'Zimula', serif;
+  --font-body: system-ui, -apple-system, sans-serif;
+
+  /* Grid */
+  --grid-margin: clamp(16px, 10.15px + 100vw * 0.015, 36px);
+  --grid-gap: clamp(14px, 9.71px + 100vw * 0.011, 28px);
+}
+
+html {
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.5;
+  overflow-x: hidden;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  background: none;
+  font-family: inherit;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+ul, ol {
+  list-style: none;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 0; }

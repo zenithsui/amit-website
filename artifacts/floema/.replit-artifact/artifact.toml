@@ -1,0 +1,27 @@
+kind = "web"
+previewPath = "/"
+title = "Floema®"
+version = "1.0.0"
+id = "artifacts/floema"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18257
+
+[services.development]
+run = "pnpm --filter @workspace/floema run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/floema", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/floema/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18257"
+BASE_PATH = "/"

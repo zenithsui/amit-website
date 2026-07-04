@@ -1,0 +1,11 @@
+{
+  "bannerText": null,
+  "bannerBgColor": null,
+  "bannerTextColor": null,
+  "logoPosition": "unknown",
+  "navLinks": [],
+  "headerHTML": "<div class=\"g-row\" data-v-068e8402=\"\"><div class=\"g-col xxl-14 sm-22\" data-v-068e8402=\"\"><h1 class=\"-title-2-medium title\" data-v-068e8402=\"\" style=\"opacity: 1;\" aria-label=\"Spaces for people, made for life.\"><div class=\"line\" aria-hidden=\"true\" style=\"position: relative; display: block; text-align: center;\"><div class=\"word\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">Spaces</div> <div class=\"word\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">for</div> <div class=\"word\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">people,</div> <div class=\"word\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">made</div> <div class=\"word\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">for</div> </div><div class=\"line\" aria-hidden=\"true\" style=\"position: relative; display: block; text-align: center;\"><div class=\"word\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">life.</div></div></h1></div></div><div class=\"floating-images\" data-v-068e8402=\"\"><div data-v-fec297db=\"\" data-v-068e8402=\"\" class=\"three-container\"><canvas data-v-fec297db=\"\" width=\"1440\" height=\"900\"></canvas></div></div>",
+  "headerText": "Spaces for people, made for\nlife.",
+  "headerBg": "rgb(242, 239, 234)",
+  "headerHeight": 900
+}

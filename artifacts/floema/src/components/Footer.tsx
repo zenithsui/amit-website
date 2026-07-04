@@ -1,0 +1,134 @@
+const BASE = import.meta.env.BASE_URL;
+
+const NAV_LINKS = [
+  { label: 'Products', href: '#' },
+  { label: 'About', href: '#' },
+  { label: 'Sustainability', href: '#' },
+  { label: 'Journal', href: '#' },
+  { label: 'Careers', href: '#' },
+  { label: 'Complaints Book', href: '#' },
+  { label: 'Privacy Policy', href: '#' },
+];
+
+export default function Footer() {
+  return (
+    <footer style={{
+      background: 'var(--color-yellow)',
+      color: 'var(--color-text)',
+      padding: 'clamp(60px, 8vw, 100px) var(--grid-margin) 40px',
+    }}>
+      <div style={{
+        maxWidth: 1400,
+        margin: '0 auto',
+      }}>
+        {/* Top grid */}
+        <div style={{
+          display: 'grid',
+          gridTemplateColumns: 'repeat(3, 1fr) 1fr',
+          gap: 40,
+          marginBottom: 80,
+        }}>
+          {/* Headquarters */}
+          <div>
+            <p style={{ fontSize: 13, fontWeight: 700, marginBottom: 16, letterSpacing: '0.04em', textTransform: 'uppercase' }}>
+              Headquarters
+            </p>
+            <p style={{ fontSize: 13, lineHeight: 1.8, color: 'var(--color-stone-700)' }}>
+              Terras Velhas, s/n, Alcabideque<br />
+              3150-211 Condeixa-a-Velha, Portugal<br />
+              +351 239 561 392<br />
+              <a href="mailto:info@floema.pt" style={{ borderBottom: '1px solid currentColor' }}>info@floema.pt</a>
+            </p>
+          </div>
+
+          {/* Production */}
+          <div>
+            <p style={{ fontSize: 13, fontWeight: 700, marginBottom: 16, letterSpacing: '0.04em', textTransform: 'uppercase' }}>
+              Production
+            </p>
+            <p style={{ fontSize: 13, lineHeight: 1.8, color: 'var(--color-stone-700)' }}>
+              Zona Industrial de Condeixa-a-Nova,<br />
+              Lote 41<br />
+              3150-194 Sebal, Portugal
+            </p>
+          </div>
+
+          {/* Spain office */}
+          <div>
+            <p style={{ fontSize: 13, fontWeight: 700, marginBottom: 16, letterSpacing: '0.04em', textTransform: 'uppercase' }}>
+              Floema Spain
+            </p>
+            <p style={{ fontSize: 13, lineHeight: 1.8, color: 'var(--color-stone-700)' }}>
+              San Martin de Borines<br />
+              33583 Borines<br />
+              Asturias, España<br />
+              <a href="mailto:info@floema.es" style={{ borderBottom: '1px solid currentColor' }}>info@floema.es</a>
+            </p>
+          </div>
+
+          {/* Partner logos */}
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 20, justifyContent: 'flex-start' }}>
+            <img
+              src={`${BASE}images/centro-2030-8e3f4dcc91.svg`}
+              alt="Centro 2030"
+              style={{ width: 120, height: 'auto' }}
+            />
+            <img
+              src={`${BASE}images/prr-e23067025d.svg`}
+              alt="PRR"
+              style={{ width: 80, height: 'auto' }}
+            />
+          </div>
+        </div>
+
+        {/* Divider */}
+        <div style={{ height: 1, background: 'rgba(36,31,33,0.2)', marginBottom: 40 }} />
+
+        {/* Bottom row */}
+        <div style={{
+          display: 'flex',
+          justifyContent: 'space-between',
+          alignItems: 'center',
+          flexWrap: 'wrap',
+          gap: 24,
+        }}>
+          {/* Logo */}
+          <a href="#" aria-label="Floema homepage">
+            <svg width="100" height="21" viewBox="0 0 117 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M16.4563 -0.00878906H0V24.6784H3.94146V9.20675C3.94146 8.11226 5.2272 7.56596 5.97813 8.33832L12.3134 14.8544L14.8171 12.2792L8.53312 5.81403C7.78219 5.04167 8.31333 3.71925 9.37746 3.71925H16.4582V-0.00878906H16.4563Z" fill="#241F21"/>
+              <path d="M18.3799 -0.0253906H22.195V24.675H18.3799V-0.0253906Z" fill="#241F21"/>
+              <path d="M42.0781 16.1773C42.0781 21.0168 38.1678 24.9727 33.3032 24.9727C28.4386 24.9727 24.5283 21.0168 24.5283 16.1773C24.5283 11.3378 28.4386 7.38184 33.3032 7.38184C38.1348 7.38184 42.0781 11.3378 42.0781 16.1773ZM28.3764 16.1773C28.3764 19.0538 30.5706 21.3445 33.3032 21.3445C36.0377 21.3445 38.23 19.0557 38.23 16.1773C38.23 13.3007 36.0359 11.0119 33.3032 11.0119C30.5687 11.0119 28.3764 13.3007 28.3764 16.1773Z" fill="#241F21"/>
+              <path d="M60.3305 16.1375C60.3305 16.5632 60.2993 16.8571 60.2664 16.987H47.3907C47.7094 19.6036 49.7112 21.3367 52.6051 21.3367C54.6399 21.3367 56.2297 20.4532 56.8963 18.982L60.1711 20.2893C58.9953 23.2657 56.1967 24.9649 52.541 24.9649C47.2002 24.9649 43.4492 21.3349 43.4492 16.1695C43.4492 11.1021 47.0409 7.37402 51.9365 7.37402C56.8011 7.37402 60.3286 11.0682 60.3286 16.1375H60.3305ZM56.0703 14.0785C55.5611 12.2154 53.9714 11.0041 51.9695 11.0041C49.9658 11.0041 48.3779 12.2135 47.6782 14.0785H56.0703Z" fill="#241F21"/>
+              <path d="M66.5024 7.67571V8.32939C66.5024 8.88511 66.6618 9.11493 67.0739 9.11493C67.3925 9.11493 67.6783 8.95104 68.0904 8.59123C68.9805 7.77367 70.03 7.38184 71.3651 7.38184C72.9238 7.38184 74.1308 7.90553 75.085 8.98495C75.4989 9.47474 75.8158 9.63863 76.2608 9.63863C76.6418 9.63863 76.9293 9.50864 77.3414 9.05088C78.3909 7.93944 79.6931 7.38372 81.3159 7.38372C84.717 7.38372 86.6878 9.86845 86.6878 14.1202V24.6826H82.8727V14.6778C82.8727 12.2251 81.728 10.6879 79.9166 10.6879C77.977 10.6879 76.7059 12.389 76.7059 14.9057V24.6826H72.8908V14.6778C72.8908 12.2251 71.7461 10.6879 69.9017 10.6879C67.9951 10.6879 66.6911 12.421 66.6911 14.9717V24.6826H62.876V7.67571H66.5006H66.5024Z" fill="#241F21"/>
+              <path d="M103.613 14.1805V24.677H100.021L100.053 23.5655C100.053 23.0098 99.8621 22.748 99.3859 22.748C99.0361 22.748 98.7504 22.9119 98.3053 23.3696C97.2558 24.449 95.9848 24.9727 94.395 24.9727C91.3107 24.9727 89.2447 23.0758 89.2447 20.2651C89.2447 17.3547 91.4389 15.3936 95.4756 14.706L99.8951 13.9544C99.6735 11.9934 98.2742 10.848 96.0159 10.848C94.1093 10.848 92.8363 11.6656 92.329 13.2348L88.959 12.1554C89.8491 9.17898 92.4884 7.38184 95.9848 7.38184C100.404 7.38184 103.615 10.2264 103.615 14.1823L103.613 14.1805ZM96.2686 17.7446C94.0745 18.1364 93.0268 18.89 93.0268 20.0994C93.0268 21.2767 94.0122 21.9963 95.602 21.9963C98.146 21.9963 99.798 20.0994 99.9262 17.0589L96.2705 17.7465L96.2686 17.7446Z" fill="#241F21"/>
+              <path d="M116.644 19.8353C116.644 22.7231 114.395 24.9705 111.501 24.9705C108.609 24.9705 106.358 22.7231 106.358 19.8353C106.358 16.9474 108.609 14.7227 111.501 14.7227C114.395 14.7227 116.644 16.97 116.644 19.8353ZM107.43 19.8353C107.43 22.1712 109.208 23.9796 111.501 23.9796C113.794 23.9796 115.551 22.1731 115.551 19.8353C115.551 17.4994 113.794 15.7135 111.501 15.7135C109.208 15.7135 107.43 17.4994 107.43 19.8353ZM112.573 20.2102C112.402 20.2761 112.316 20.3872 112.316 20.5624C112.316 20.6717 112.38 20.8054 112.445 20.9147L113.644 22.5894H112.359L110.88 20.4513V22.5894H109.745V17.1019H111.738C112.831 17.1019 113.624 17.8064 113.624 18.7766C113.624 19.4604 113.217 19.9879 112.575 20.2083L112.573 20.2102Z" fill="#241F21"/>
+            </svg>
+          </a>
+
+          {/* Nav links */}
+          <ul style={{ display: 'flex', gap: 28, flexWrap: 'wrap' }}>
+            {NAV_LINKS.map((link) => (
+              <li key={link.label}>
+                <a href={link.href} style={{
+                  fontSize: 12,
+                  fontWeight: 500,
+                  letterSpacing: '0.04em',
+                  color: 'var(--color-text)',
+                  transition: 'opacity 0.2s',
+                }}
+                onMouseEnter={e => (e.currentTarget.style.opacity = '0.5')}
+                onMouseLeave={e => (e.currentTarget.style.opacity = '1')}
+                >
+                  {link.label}
+                </a>
+              </li>
+            ))}
+          </ul>
+
+          {/* Made by */}
+          <p style={{ fontSize: 11, color: 'var(--color-stone-700)' }}>Made by Büro</p>
+        </div>
+      </div>
+    </footer>
+  );
+}

@@ -1,0 +1,137 @@
+[
+  {
+    "index": 0,
+    "selector": "header",
+    "type": "header",
+    "tag": "header",
+    "classes": "",
+    "headings": [],
+    "buttons": [],
+    "imageCount": 0,
+    "textPreview": "Spaces for people, made for\nlife.",
+    "layout": "flex",
+    "height": 900
+  },
+  {
+    "index": 1,
+    "selector": "section",
+    "type": "hero",
+    "tag": "section",
+    "classes": "",
+    "headings": [
+      "Signage, furniture, and\nequipment for welcoming urban\nspaces",
+      "Signage and equipment for all\nfacets of the great outdoors",
+      "Custom projects and furniture\ncrafted out of 100% recyclable\nplastic",
+      "Revamp your course with best\npractices golf equipment and\nsignage",
+      "People and\nenvironment-friendly custom\nsignage"
+    ],
+    "buttons": [
+      "SEE URBAN PRODUCTS",
+      "Download Now"
+    ],
+    "imageCount": 8,
+    "textPreview": "Made to Last\n\nScroll to Explore \u2193\n\n01\n\nUrban\n\nSignage, furniture, and\nequipment for welcoming urban\nspaces\nSEE URBAN PRODUCTS\n\nUrban Catalogue\n\nDownload Now\n\nSignage and equipment for all\nfacets of the great outdoors\n\nCustom projects and furniture\ncrafted out of 100% recyclable\nplastic\n\nRevamp your ",
+    "layout": "block",
+    "height": 8100,
+    "innerHTML": "<div class=\"line-wrapper\" data-v-435ca9aa=\"\"><span class=\"line\" data-v-435ca9aa=\"\"><span class=\"progress\" data-v-435ca9aa=\"\" style=\"width: 0%;\"></span></span><p class=\"-body-small-medium main-label\" data-v-435ca9aa=\"\">Made to Last</p><p class=\"-body-small-medium scroll-label\" data-v-435ca9aa=\"\">Scroll to Explore <span data-v-435ca9aa=\"\">\u2193</span></p></div><div class=\"collections-wrapper\" data-v-435ca9aa=\"\"><!--[--><div class=\"collection is-active\" data-v-435ca9aa=\"\" style=\"opacity: 1;\"><div class=\"media\" data-v-435ca9aa=\"\" style=\"--reveal: 0%;\"><div class=\"media-inner\" data-v-435ca9aa=\"\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px);\"><img onerror=\"this.setAttribute('data-error', 1)\" width=\"3400\" height=\"2120\" alt=\"Restauradores Square\" data-nuxt-img=\"\" sizes=\"(max-width: 1200px) 600px, (max-width: 1699px) 1200px, 1700px\" srcset=\"/_ipx/f_webp&amp;s_600x374/https://cdn.sanity.io/images/535lnz3g/production/477a3c25c1ea90ea1552d90a928550a434c2d7c7-3400x2120.jpg 600w, /_ipx/f_webp&amp;s_1200x748/https://cdn.sanity.io/images/535lnz3g/production/477a3c25c1ea90ea1552d90a928550a434c2d7c7-3400x2120.jpg 1200w, /_ipx/f_webp&amp;s_1700x1060/https://cdn.sanity.io/images/535lnz3g/production/477a3c25c1ea90ea1552d90a928550a434c2d7c7-3400x2120.jpg 1700w, /_ipx/f_webp&amp;s_2400x1496/https://cdn.sanity.io/images/535lnz3g/production/477a3c25c1ea90ea1552d90a928550a434c2d7c7-3400x2120.jpg 2400w, /_ipx/f_webp&amp;s_3400x2120/https://cdn.sanity.io/images/535lnz3g/production/477a3c25c1ea90ea1552d90a928550a434c2d7c7-3400x2120.jpg 3400w\" data-component=\"media-asset\" provider_=\"ipx\" class=\"media\" autoplay=\"\" muted=\"\" data-v-435ca9aa=\"\" data-v-78ec613b=\"\" src=\"/_ipx/f_webp&amp;s_3400x2120/https://cdn.sanity.io/images/535lnz3g/production/477a3c25c1ea90ea1552d90a928550a434c2d7c7-3400x2120.jpg\"></div></div><div class=\"g-row\" data-v-435ca9aa=\"\" style=\"opacity: 1;\"><div class=\"upper-content\" data-v-435ca9aa=\"\"><p class=\"-body-small-medium index\" data-v-435ca9aa=\"\" style=\"translate: none; rotate: none; scale: none; transform: translate3d(0px, 0px, 0px); opacity: 1; visibility: inherit;\">01</p><p class=\"-body-small-medium collection-upper\" data-v-435ca9aa=\"\" style=\"translate: none; rotate: none; scale: none; transform: translate3d(0px, 0px, 0px); opacity: 1; visibility: inherit;\"><div data-v-ad5c0564=\"\" data-v-435ca9aa=\"\" data-component=\"category-tag\" class=\"category-tag -product -medium -urban\"><span data-v-ad5c0564=\"\" class=\"bg\" aria-hidden=\"true\" style=\"translate: none; rotate: none; scale: none; transform-origin: 0% 50%; transform: translate(0px, 0px); width: 100%;\"></span><div data-v-59448749=\"\" data-v-ad5c0564=\"\" data-component=\"icon\" class=\"large icon\" style=\"translate: none; rotate: none; scale: none; transform-origin: 50% 50%; opacity: 1; visibility: inherit; transform: translate(0px, 0px);\"><svg data-v-59448749=\"\" width=\"18\" height=\"18\" viewBox=\"0 0 18 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M15.6492 14.7367H10.2453V"
+  },
+  {
+    "index": 2,
+    "selector": "section",
+    "type": "content",
+    "tag": "section",
+    "classes": "",
+    "headings": [
+      "Floema\u00ae Est. 2007",
+      "Going beyond the expected is\nour calling. True sustainability demands\ncreativity to be aligned with strict\nprinciples and answer to the highest\nstandards. It keeps us on a journey of\ninnovation, meticulously crafting each\nproject to keep the environment on our\nside."
+    ],
+    "buttons": [],
+    "imageCount": 3,
+    "textPreview": "Floema\u00ae Est. 2007\nGoing beyond the expected is\nour calling. True sustainability demands\ncreativity to be aligned with strict\nprinciples and answer to the highest\nstandards. It keeps us on a journey of\ninnovation, meticulously crafting each\nproject to keep the environment on our\nside.\n\nRecent News \u2193\n",
+    "layout": "block",
+    "height": 844,
+    "innerHTML": "<div class=\"g-row\" data-v-4d2de5ce=\"\"><div class=\"g-col xxl-16 sm-24\" data-v-4d2de5ce=\"\"><span class=\"top-line\" data-v-4d2de5ce=\"\" style=\"width: 100%;\"></span><div class=\"tagline-image\" data-v-4d2de5ce=\"\"><h4 class=\"-title-7-medium left-label\" data-v-4d2de5ce=\"\" style=\"opacity: 1;\">Floema\u00ae\nEst. 2007</h4><div data-component=\"image-reveal\" class=\"image-wrapper\" data-v-4d2de5ce=\"\" data-v-39c7b254=\"\"><span class=\"stoneBrown800 bg\" data-v-39c7b254=\"\" style=\"clip-path: inset(0%);\"></span><!--[--><img onerror=\"this.setAttribute('data-error', 1)\" width=\"364\" height=\"504\" alt=\"CNC milling machine carving a rectangular groove into dark wooden planks\" data-nuxt-img=\"\" sizes=\"1200px\" srcset=\"/_ipx/f_webp&amp;s_1200x1662/https://cdn.sanity.io/images/535lnz3g/production/b0b035e38fdba791021c56bb46ef95bd1b9468ae-364x504.jpg 1200w, /_ipx/f_webp&amp;s_2400x3324/https://cdn.sanity.io/images/535lnz3g/production/b0b035e38fdba791021c56bb46ef95bd1b9468ae-364x504.jpg 2400w\" data-component=\"media-asset\" provider_=\"ipx\" class=\"media\" autoplay=\"\" muted=\"\" data-v-4d2de5ce=\"\" data-v-78ec613b=\"\" src=\"/_ipx/f_webp&amp;s_2400x3324/https://cdn.sanity.io/images/535lnz3g/production/b0b035e38fdba791021c56bb46ef95bd1b9468ae-364x504.jpg\" style=\"clip-path: inset(0%);\"><!--]--></div></div><h2 class=\"-title-3-medium title\" data-v-4d2de5ce=\"\" style=\"opacity: 1;\" aria-label=\"Going beyond the expected is our calling. True sustainability demands creativity to be aligned with strict principles and answer to the highest standards. It keeps us on a journey of innovation, meticulously crafting each project to keep the environment on our side.\"><div class=\"line\" aria-hidden=\"true\" style=\"position: relative; display: block; text-align: start;\"><span class=\"spacer\" data-v-4d2de5ce=\"\"></span><div class=\"word\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">Going</div> <div class=\"word\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">beyond</div> <div class=\"word\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">the</div> <div class=\"word\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">expected</div> <div class=\"word\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">is</div> </div><div class=\"line\" aria-hidden=\"true\" style=\"position: relative; display: block; text-align: start;\"><div class=\"word\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">our</div> <div class=\"word\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">calling.</div> <div class=\"word\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">True</div> <div class=\"word\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">sustainability</div> <div class=\"word\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">demands</div> </div><div class=\"line\" aria-hidden=\"true\" style=\"position: relative; display: block; text-align: start;\"><div cla"
+  },
+  {
+    "index": 3,
+    "selector": "section",
+    "type": "gallery",
+    "tag": "section",
+    "classes": "",
+    "headings": [],
+    "buttons": [
+      "EXPLORE",
+      "EXPLORE"
+    ],
+    "imageCount": 4,
+    "textPreview": "Recent Addings \u2193\n\nByside bench Plaza\n\nUrban\n\nEXPLORE\n\nColors\n\n+4\n\nPalmer tee sign\n\nGolf\n\nEXPLORE",
+    "layout": "block",
+    "height": 764,
+    "innerHTML": "<div class=\"g-row\" data-v-858d409b=\"\"><div class=\"g-col xxl-24\" data-v-858d409b=\"\"><p class=\"-body-smaller-medium\" data-v-858d409b=\"\">Recent Addings \u2193</p></div></div><div class=\"products-wrapper\" data-v-858d409b=\"\"><!--[--><div class=\"product\" data-v-858d409b=\"\"><a href=\"/en/products/urban/byside-bench-plaza\" class=\"\" data-component=\"hyperlink\" aria-label=\"Link\" data-disabled=\"false\" data-v-858d409b=\"\" data-v-892b4d29=\"\"><!--[--><div data-component=\"product-card-featured\" class=\"square featured\" data-v-858d409b=\"\" data-v-d2b72111=\"\"><div class=\"header\" data-v-d2b72111=\"\"><p class=\"-body-big-medium\" data-v-d2b72111=\"\">Byside bench Plaza</p><div data-component=\"category-tag\" class=\"category-tag -product -medium -active -urban\" data-v-d2b72111=\"\" data-v-ad5c0564=\"\"><span class=\"bg\" aria-hidden=\"true\" data-v-ad5c0564=\"\"></span><div data-component=\"icon\" class=\"large icon\" data-v-ad5c0564=\"\" data-v-59448749=\"\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 18 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" data-v-59448749=\"\"><path d=\"M15.6492 14.7367H10.2453V6.81263C10.2453 6.51422 10.5349 6.29854 10.8214 6.38422L16.0953 7.96785V14.2906C16.0953 14.5358 15.8944 14.7367 15.6492 14.7367ZM8.78281 14.7367H7.32031V10.3492H2.93281V14.7367H1.91645C1.66827 14.7367 1.47031 14.5358 1.47031 14.2906V3.03672H8.33668C8.5819 3.03672 8.78281 3.23763 8.78281 3.48286V14.7367ZM4.39531 14.2906V11.8117H5.41168C5.6569 11.8117 5.85781 12.0126 5.85781 12.2579V14.7367H4.84145C4.59622 14.7367 4.39531 14.5358 4.39531 14.2906ZM10.2453 4.68535V1.57422H0.0078125V16.1992H17.5578V6.88058L10.2453 4.68831V4.68535Z\" fill=\"#241F21\"></path><path d=\"M7.31719 7.42383H2.92969V8.88633H7.31719V7.42383Z\" fill=\"#241F21\"></path><path d=\"M7.31719 4.5H2.92969V5.9625H7.31719V4.5Z\" fill=\"#241F21\"></path><path d=\"M15.3641 8.88672H10.9766V10.3492H15.3641V8.88672Z\" fill=\"#241F21\"></path><path d=\"M15.3641 11.8125H10.9766V13.275H15.3641V11.8125Z\" fill=\"#241F21\"></path></svg></div><!----><p class=\"-body-small-medium label\" data-v-ad5c0564=\"\">Urban</p></div></div><div class=\"image-wrapper\" data-v-d2b72111=\"\"><img onerror=\"this.setAttribute('data-error', 1)\" width=\"775\" height=\"698\" alt=\"Byside bench Plaza\" data-nuxt-img=\"\" sizes=\"1200px\" srcset=\"/_ipx/f_webp&amp;s_1200x1081/https://cdn.sanity.io/images/535lnz3g/production/2a0a9bc12bb5a939015e0bff85b86ddaaa34c223-775x698.png 1200w, /_ipx/f_webp&amp;s_2400x2162/https://cdn.sanity.io/images/535lnz3g/production/2a0a9bc12bb5a939015e0bff85b86ddaaa34c223-775x698.png 2400w\" data-component=\"image-asset\" provider_=\"ipx\" class=\"featured-image\" data-v-d2b72111=\"\" src=\"/_ipx/f_webp&amp;s_2400x2162/https://cdn.sanity.io/images/535lnz3g/production/2a0a9bc12bb5a939015e0bff85b86ddaaa34c223-775x698.png\"></div><div class=\"explore-button\" data-v-d2b72111=\"\"><button to=\"\" data-hover=\"false\" class=\"dark front\" aria-label=\"Explore\" title=\"Explore\" data-component=\"button\" data-v-d2b72111=\"\" data-v-abed00c5=\"\"><span class=\"bg\" data-v-abed00c5=\"\"></span><div data-component=\"icon\" class"
+  },
+  {
+    "index": 4,
+    "selector": "section",
+    "type": "gallery",
+    "tag": "section",
+    "classes": "",
+    "headings": [],
+    "buttons": [],
+    "imageCount": 30,
+    "textPreview": "The Collections",
+    "layout": "block",
+    "height": 1049,
+    "innerHTML": "<div class=\"shadows\" data-v-47d2097f=\"\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px);\"><div data-v-106eafbe=\"\" data-v-47d2097f=\"\" class=\"three-container\"><canvas data-v-106eafbe=\"\" width=\"1440\" height=\"1048\"></canvas></div></div><p class=\"-body-smaller-medium\" data-v-47d2097f=\"\">The Collections</p><div class=\"collections-wrapper\" data-v-47d2097f=\"\"><!--[--><a href=\"/en/products/urban\" class=\"\" data-component=\"hyperlink\" aria-label=\"urban collection link\" data-disabled=\"false\" data-v-47d2097f=\"\" data-v-892b4d29=\"\"><!--[--><div class=\"collection\" data-v-47d2097f=\"\" style=\"translate: none; rotate: none; scale: none; pointer-events: none; opacity: 0; visibility: hidden; transform: translate(0px, 50px);\"><!----><div data-component=\"icon\" class=\"large icon\" data-v-47d2097f=\"\" data-v-59448749=\"\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 18 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" data-v-59448749=\"\"><path d=\"M15.6492 14.7367H10.2453V6.81263C10.2453 6.51422 10.5349 6.29854 10.8214 6.38422L16.0953 7.96785V14.2906C16.0953 14.5358 15.8944 14.7367 15.6492 14.7367ZM8.78281 14.7367H7.32031V10.3492H2.93281V14.7367H1.91645C1.66827 14.7367 1.47031 14.5358 1.47031 14.2906V3.03672H8.33668C8.5819 3.03672 8.78281 3.23763 8.78281 3.48286V14.7367ZM4.39531 14.2906V11.8117H5.41168C5.6569 11.8117 5.85781 12.0126 5.85781 12.2579V14.7367H4.84145C4.59622 14.7367 4.39531 14.5358 4.39531 14.2906ZM10.2453 4.68535V1.57422H0.0078125V16.1992H17.5578V6.88058L10.2453 4.68831V4.68535Z\" fill=\"#241F21\"></path><path d=\"M7.31719 7.42383H2.92969V8.88633H7.31719V7.42383Z\" fill=\"#241F21\"></path><path d=\"M7.31719 4.5H2.92969V5.9625H7.31719V4.5Z\" fill=\"#241F21\"></path><path d=\"M15.3641 8.88672H10.9766V10.3492H15.3641V8.88672Z\" fill=\"#241F21\"></path><path d=\"M15.3641 11.8125H10.9766V13.275H15.3641V11.8125Z\" fill=\"#241F21\"></path></svg></div><!----><h3 class=\"-title-2-medium\" data-v-47d2097f=\"\">Urban</h3><div class=\"media-wrapper\" data-v-47d2097f=\"\"><!--[--><img onerror=\"this.setAttribute('data-error', 1)\" width=\"500\" height=\"288\" alt=\"Bike rack Frame\" data-nuxt-img=\"\" sizes=\"1200px\" srcset=\"/_ipx/f_webp&amp;s_1200x691/https://cdn.sanity.io/images/535lnz3g/production/def7bf5c4f063d1eccb3409ae9d931a49f97c448-500x288.jpg 1200w, /_ipx/f_webp&amp;s_2400x1382/https://cdn.sanity.io/images/535lnz3g/production/def7bf5c4f063d1eccb3409ae9d931a49f97c448-500x288.jpg 2400w\" data-component=\"media-asset\" provider_=\"ipx\" class=\"media\" autoplay=\"\" muted=\"\" data-v-47d2097f=\"\" data-v-78ec613b=\"\" src=\"/_ipx/f_webp&amp;s_2400x1382/https://cdn.sanity.io/images/535lnz3g/production/def7bf5c4f063d1eccb3409ae9d931a49f97c448-500x288.jpg\" style=\"translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(0px, 30px);\"><img onerror=\"this.setAttribute('data-error', 1)\" width=\"500\" height=\"288\" alt=\"Community Table Plaza\" data-nuxt-img=\"\" sizes=\"1200px\" srcset=\"/_ipx/f_webp&amp;s_1200x691/https://cdn.sanity.io/images/535lnz3g/production/b2b1ef98"
+  },
+  {
+    "index": 5,
+    "selector": "section",
+    "type": "content",
+    "tag": "section",
+    "classes": "",
+    "headings": [
+      "\"We think outdoor furniture\nshould look and feel good\nwhile doing good for our\nplanet\""
+    ],
+    "buttons": [
+      "More on sustainability"
+    ],
+    "imageCount": 2,
+    "textPreview": "Fernando Pinto\n\nManaging Partner\n\nFloema\u00ae produces sustainable signage and equipment and offers durable, low maintenance solutions that integrate perfectly into the landscape, based on ecological raw materials.\n\nOur products are an important resource to enhance the heritage, urban environment, lands",
+    "layout": "block",
+    "height": 689,
+    "innerHTML": "<span class=\"section-bg\" data-v-4e02a2c2=\"\" style=\"translate: none; rotate: none; scale: none; transform: scale(1, 0);\"></span><div class=\"g-row\" data-v-4e02a2c2=\"\"><div class=\"g-col xxl-14 sm-24 left-col\" data-v-4e02a2c2=\"\"><div class=\"top-row\" data-v-4e02a2c2=\"\"><div class=\"author-wrapper\" data-v-4e02a2c2=\"\"><div data-component=\"image-reveal\" class=\"image-wrapper\" data-v-4e02a2c2=\"\" data-v-39c7b254=\"\"><span class=\"yellow bg\" data-v-39c7b254=\"\" style=\"clip-path: inset(0% 0% 100%);\"></span><!--[--><img onerror=\"this.setAttribute('data-error', 1)\" width=\"364\" height=\"364\" alt=\"Fernando Pinto \u2014 Managing Partner\" data-nuxt-img=\"\" sizes=\"1200px\" srcset=\"/_ipx/f_webp&amp;s_1200x1200/https://cdn.sanity.io/images/535lnz3g/production/7fe78002ddd32916abd015d3001832a88f749462-364x364.jpg 1200w, /_ipx/f_webp&amp;s_2400x2400/https://cdn.sanity.io/images/535lnz3g/production/7fe78002ddd32916abd015d3001832a88f749462-364x364.jpg 2400w\" data-component=\"media-asset\" provider_=\"ipx\" class=\"media\" autoplay=\"\" muted=\"\" data-v-4e02a2c2=\"\" data-v-78ec613b=\"\" src=\"/_ipx/f_webp&amp;s_2400x2400/https://cdn.sanity.io/images/535lnz3g/production/7fe78002ddd32916abd015d3001832a88f749462-364x364.jpg\" style=\"clip-path: inset(0% 0% 100%);\"><!--]--></div><div class=\"name-role\" data-v-4e02a2c2=\"\" style=\"translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0%, 10%);\"><p class=\"-title-8-medium\" data-v-4e02a2c2=\"\">Fernando Pinto</p><p class=\"-title-9-medium\" data-v-4e02a2c2=\"\">Managing Partner</p></div></div><div class=\"description\" data-v-4e02a2c2=\"\" style=\"translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0%, 30%);\"><p class=\"-title-9-medium\" data-v-4e02a2c2=\"\">Floema\u00ae produces sustainable signage and equipment and offers durable, low maintenance solutions that integrate perfectly into the landscape, based on ecological raw materials.\n\nOur products are an important resource to enhance the heritage, urban environment, landscape and culture of any region.</p></div></div><div class=\"quote-wrapper\" data-v-4e02a2c2=\"\"><h2 class=\"-title-2-medium quote\" data-v-4e02a2c2=\"\" style=\"opacity: 1;\" aria-label=\"&quot;We think outdoor furniture should look and feel good while doing good for our planet&quot;\"><div class=\"line\" aria-hidden=\"true\" style=\"position: relative; display: block; text-align: start;\"><div class=\"word\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">\"We</div> <div class=\"word\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">think</div> <div class=\"word\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">outdoor</div> <div class=\"word\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">furniture</div> </div><div class=\"line\" aria-hidden=\"true\" style=\"position: relative; display: block; text-align: start;\"><div class=\"word\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">should</div> <div class=\"word\" aria-hidden=\"true\" style"
+  },
+  {
+    "index": 6,
+    "selector": "div.bottomGroup",
+    "type": "content",
+    "tag": "div",
+    "classes": "bottomGroup",
+    "headings": [
+      "Made to last, designed to endure."
+    ],
+    "buttons": [],
+    "imageCount": 3,
+    "textPreview": "We design\n\nOur products are designed to guarantee functionality and viability\n\nWe build\n\nEnsuring the technical and aesthetic aspects stay unaltered\n\nWe implement\n\nEvery solution is crafted to endure, with minimal environmental impact\n\nMade to last, designed to endure.\n\nJoin our community Sign up fo",
+    "layout": "block",
+    "height": 896,
+    "innerHTML": "<data class=\"bottomGroupCanvasContainer\" data-v-8bba1744=\"\"><div data-v-106eafbe=\"\" data-v-8bba1744=\"\" class=\"three-container\"><canvas data-v-106eafbe=\"\" width=\"1440\" height=\"450\"></canvas></div></data><section data-component=\"workflow-overview\" _type=\"workflowOverview\" data-section-intersect=\"dark\" data-v-8bba1744=\"\" data-v-83a649a5=\"\"><div class=\"g-row\" data-v-83a649a5=\"\"><!--[--><div class=\"g-col xxl-8 sm-24\" data-v-83a649a5=\"\"><div class=\"inner\" data-v-83a649a5=\"\" style=\"translate: none; rotate: none; scale: none; transform: translate(0%, 40%); opacity: 0;\"><div data-component=\"image-reveal\" class=\"image-wrapper\" data-v-83a649a5=\"\" data-v-39c7b254=\"\"><span class=\"yellow bg\" data-v-39c7b254=\"\" style=\"clip-path: inset(0% 0% 100%);\"></span><!--[--><img onerror=\"this.setAttribute('data-error', 1)\" width=\"1054\" height=\"600\" alt=\"We design\" data-nuxt-img=\"\" sizes=\"1200px\" srcset=\"/_ipx/f_webp&amp;s_1200x683/https://cdn.sanity.io/images/535lnz3g/production/4c1a919b5e7601c1bf188b28c2cdf4aef3d228f2-1054x600.jpg 1200w, /_ipx/f_webp&amp;s_2400x1366/https://cdn.sanity.io/images/535lnz3g/production/4c1a919b5e7601c1bf188b28c2cdf4aef3d228f2-1054x600.jpg 2400w\" data-component=\"media-asset\" provider_=\"ipx\" class=\"media\" autoplay=\"\" muted=\"\" data-v-83a649a5=\"\" data-v-78ec613b=\"\" src=\"/_ipx/f_webp&amp;s_2400x1366/https://cdn.sanity.io/images/535lnz3g/production/4c1a919b5e7601c1bf188b28c2cdf4aef3d228f2-1054x600.jpg\" style=\"clip-path: inset(0% 0% 100%);\"><!--]--></div><div class=\"text-content\" data-v-83a649a5=\"\"><p class=\"-title-8-medium title\" data-v-83a649a5=\"\">We design</p><p class=\"-body-big-medium description\" data-v-83a649a5=\"\">Our products are designed to guarantee functionality and viability</p></div></div></div><div class=\"g-col xxl-8 sm-24\" data-v-83a649a5=\"\"><div class=\"inner\" data-v-83a649a5=\"\" style=\"translate: none; rotate: none; scale: none; transform: translate(0%, 80%); opacity: 0;\"><div data-component=\"image-reveal\" class=\"image-wrapper\" data-v-83a649a5=\"\" data-v-39c7b254=\"\"><span class=\"yellow bg\" data-v-39c7b254=\"\" style=\"clip-path: inset(0% 0% 100%);\"></span><!--[--><img onerror=\"this.setAttribute('data-error', 1)\" width=\"1054\" height=\"600\" alt=\"We build\" data-nuxt-img=\"\" sizes=\"1200px\" srcset=\"/_ipx/f_webp&amp;s_1200x683/https://cdn.sanity.io/images/535lnz3g/production/fb095c31eb4ea6ce292e009ff8fd64ca958c8856-1054x600.jpg 1200w, /_ipx/f_webp&amp;s_2400x1366/https://cdn.sanity.io/images/535lnz3g/production/fb095c31eb4ea6ce292e009ff8fd64ca958c8856-1054x600.jpg 2400w\" data-component=\"media-asset\" provider_=\"ipx\" class=\"media\" autoplay=\"\" muted=\"\" data-v-83a649a5=\"\" data-v-78ec613b=\"\" src=\"/_ipx/f_webp&amp;s_2400x1366/https://cdn.sanity.io/images/535lnz3g/production/fb095c31eb4ea6ce292e009ff8fd64ca958c8856-1054x600.jpg\" style=\"clip-path: inset(0% 0% 100%);\"><!--]--></div><div class=\"text-content\" data-v-83a649a5=\"\"><p class=\"-title-8-medium title\" data-v-83a649a5=\"\">We build</p><p class=\"-body-big-medium description\" data-v-83a649a5=\"\">Ensuring "
+  },
+  {
+    "index": 999,
+    "selector": "footer",
+    "type": "footer",
+    "tag": "footer",
+    "classes": "",
+    "headings": [
+      "Headquarters",
+      "Production",
+      "Floema Spain"
+    ],
+    "buttons": [],
+    "imageCount": 7,
+    "textPreview": "Headquarters\n\nTerras Velhas, s/n, Alcabideque\n3150-211 Condeixa-a-Velha, Portugal\n+351 239 561 392\ninfo@floema.pt\n\nProduction\n\nZona Industrial de Condeixa-a-Nova,\nLote 41\u2028\n3150-194 Sebal, Portugal\u2028\n\nFloema Spain\n\nSan Martin de Borines\n33583 Borines\nAsturias, Espa\u00f1a\ninfo@floema.es\n\nProducts\nAbout\nSus",
+    "layout": "block",
+    "height": 1072
+  }
+]
