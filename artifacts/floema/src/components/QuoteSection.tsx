@@ -78,8 +78,8 @@ export default function QuoteSection() {
             transform: inView ? 'none' : 'translateY(20px)',
             transition: 'opacity 0.8s ease 0.35s, transform 0.8s ease 0.35s',
           }}>
-            <p style={{ fontSize: 18, fontWeight: 600, marginBottom: 4 }}>Fernando Pinto</p>
-            <p style={{ fontSize: 14, color: 'var(--color-stone-500)' }}>Managing Partner</p>
+            <p style={{ fontSize: 18, fontWeight: 600, marginBottom: 4 }}>Amit</p>
+            <p style={{ fontSize: 14, color: 'var(--color-stone-500)' }}>Class 10 Student · 15 Years Old</p>
           </div>
 
           {/* Description */}
@@ -94,7 +94,7 @@ export default function QuoteSection() {
               color: 'var(--color-stone-700)',
               maxWidth: 380,
             }}>
-              Floema® produces sustainable signage and equipment and offers durable, low maintenance solutions that integrate perfectly into the landscape, based on ecological raw materials.
+              Hi, I'm Amit — a 15-year-old student currently in Class 10. I'm passionate about design, technology, and building things that make a difference in the world around us.
             </p>
             <p style={{
               fontSize: 14,
@@ -103,7 +103,7 @@ export default function QuoteSection() {
               maxWidth: 380,
               marginTop: 16,
             }}>
-              Our products are an important resource to enhance the heritage, urban environment, landscape and culture of any region.
+              Learning every day, one project at a time — exploring how great design and sustainability can come together to create spaces people truly love.
             </p>
           </div>
 
